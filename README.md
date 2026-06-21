@@ -1,1 +1,1 @@
-# Oko-s-quest-for-the-fries
+# Oko quest for the fries
