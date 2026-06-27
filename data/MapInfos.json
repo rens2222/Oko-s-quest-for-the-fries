@@ -1,11 +1,11 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Oko's Bedroom","order":7,"parentId":2,"scrollX":759.3333333333334,"scrollY":440.6666666666667},
-{"id":2,"expanded":true,"name":"Hallway","order":6,"parentId":4,"scrollX":759.3333333333334,"scrollY":440.6666666666667},
-{"id":3,"expanded":false,"name":"Room 1","order":8,"parentId":2,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":4,"expanded":true,"name":"Oko's house first floor","order":5,"parentId":6,"scrollX":1092,"scrollY":524.6666666666666},
-{"id":5,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":754,"scrollY":519.3333333333334},
-{"id":6,"expanded":true,"name":"Town","order":4,"parentId":5,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":7,"expanded":true,"name":"Dungeon","order":2,"parentId":5,"scrollX":1081.3333333333333,"scrollY":694.6666666666666},
+{"id":1,"expanded":true,"name":"Oko's Bedroom","order":7,"parentId":2,"scrollX":2448,"scrollY":1666.6666666666667},
+{"id":2,"expanded":true,"name":"Hallway","order":6,"parentId":4,"scrollX":2448,"scrollY":1666.6666666666667},
+{"id":3,"expanded":false,"name":"Room 1","order":8,"parentId":2,"scrollX":501,"scrollY":304.5},
+{"id":4,"expanded":true,"name":"Oko's house first floor","order":5,"parentId":6,"scrollX":2448,"scrollY":1666.6666666666667},
+{"id":5,"expanded":true,"name":"World Map","order":1,"parentId":0,"scrollX":989,"scrollY":655.5},
+{"id":6,"expanded":true,"name":"Town","order":4,"parentId":5,"scrollX":2754,"scrollY":1875},
+{"id":7,"expanded":true,"name":"Dungeon","order":2,"parentId":5,"scrollX":1081,"scrollY":694.5},
 {"id":8,"expanded":false,"name":"Castle","order":3,"parentId":7,"scrollX":759.3333333333334,"scrollY":440.6666666666667}
 ]
