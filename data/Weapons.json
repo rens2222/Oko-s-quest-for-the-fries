@@ -1,13 +1,13 @@
 [
 null,
-{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
-{"id":2,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":4},
-{"id":3,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":101,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
-{"id":4,"animationId":11,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
-{"id":5,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":117,"name":"Chainsaw","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":2},
-{"id":6,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":7,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":8,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":9,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
-{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+{"id":1,"animationId":6,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.05}],"iconIndex":97,"name":"Sword","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":2},
+{"id":2,"animationId":6,"description":"A sturdy axe to chop down trees with","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":99,"name":"Axe","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":4},
+{"id":3,"animationId":1,"description":"A good old stick to wack with","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":113,"name":"Cane","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":6},
+{"id":4,"animationId":11,"description":"a bow and arrows","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":102,"name":"Bow","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":7},
+{"id":5,"animationId":0,"description":"A high powered chainsaw to cut down your plants","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":-0.05}],"iconIndex":117,"name":"Chainsaw","note":"","params":[0,0,25,0,0,0,0,0],"price":0,"wtypeId":2},
+{"id":6,"animationId":6,"description":"2 Daggers to dual wield","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1},{"code":34,"dataId":0,"value":1},{"code":33,"dataId":0,"value":5},{"code":54,"dataId":2,"value":1}],"iconIndex":96,"name":"Daggers","note":"","params":[0,0,5,0,0,0,0,0],"price":500,"wtypeId":1},
+{"id":7,"animationId":1,"description":"A magical staff to help use magic","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":101,"name":"Staff","note":"","params":[0,0,0,0,10,0,0,0],"price":500,"wtypeId":14},
+{"id":8,"animationId":11,"description":"A long spear to stab with","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":54,"dataId":2,"value":1},{"code":23,"dataId":0,"value":0.95}],"iconIndex":107,"name":"Spear","note":"","params":[0,0,15,0,0,0,0,0],"price":500,"wtypeId":12},
+{"id":9,"animationId":1,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0}],"iconIndex":200,"name":"Guitar","note":"<skill_id:12>","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":15},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.1}],"iconIndex":105,"name":"Claw","note":"","params":[0,0,10,0,0,0,0,0],"price":0,"wtypeId":0}
 ]
