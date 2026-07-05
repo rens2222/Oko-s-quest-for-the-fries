@@ -16,6 +16,6 @@ null,
 {"id":14,"expanded":true,"name":"Ground Floor","order":11,"parentId":10,"scrollX":1139,"scrollY":661},
 {"id":15,"expanded":false,"name":"First Floor","order":12,"parentId":14,"scrollX":1139,"scrollY":661},
 {"id":16,"expanded":true,"name":"Tschang Bridge","order":14,"parentId":5,"scrollX":2486,"scrollY":2207},
-{"id":17,"expanded":false,"name":"Tschang Dense Forrest","order":17,"parentId":5,"scrollX":2485.090909090909,"scrollY":1442.1818181818182}
+{"id":17,"expanded":false,"name":"Tschang Dense Forrest","order":17,"parentId":5,"scrollX":2485.090909090909,"scrollY":1442.1818181818182},
 {"id":18,"expanded":false,"name":"Tschang Summit","order":18,"parentId":5,"scrollX":1622,"scrollY":1118}
 ]
