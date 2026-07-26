@@ -17,5 +17,6 @@ var $plugins =
 {"name":"YEP_RegionRestrictions","status":true,"description":"v1.04 Use regions to block out Events and/or the player from\nbeing able to venture into those spots.","parameters":{"Player Restrict":"252","Event Restrict":"251","All Restrict":"253","Player Allow":"244","Event Allow":"243","All Allow":"245"}},
 {"name":"BattleSpeed","status":true,"description":"Adds a press-to-toggle Turbo Mode in battles with a visual screen icon.","parameters":{}},
 {"name":"LVLup","status":true,"description":"Preserves HP and MP percentages whenever any actor levels up.","parameters":{}},
-{"name":"DeadOrAliveItem","status":true,"description":"make item/skill whose scope is both dead or alive.","parameters":{}}
+{"name":"DeadOrAliveItem","status":true,"description":"make item/skill whose scope is both dead or alive.","parameters":{}},
+{"name":"Displayname","status":true,"description":"Fixes the Map Name window to render large titles, normal subtitles, and apostrophes safely.","parameters":{}}
 ];
