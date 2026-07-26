@@ -32,6 +32,6 @@ null,
 {"id":30,"expanded":false,"name":"Route castle","order":32,"parentId":5,"scrollX":1131,"scrollY":992},
 {"id":31,"expanded":true,"name":"Fry Castle","order":33,"parentId":5,"scrollX":1131,"scrollY":787},
 {"id":32,"expanded":false,"name":"Apples shop","order":9,"parentId":6,"scrollX":1139,"scrollY":661},
-{"id":33,"expanded":false,"name":"Inside Gas Station","order":26,"parentId":25,"scrollX":1139,"scrollY":661},
+{"id":33,"expanded":false,"name":"Inside Gas Station","order":26,"parentId":25,"scrollX":759.3333333333334,"scrollY":466.3333333333333},
 {"id":34,"expanded":false,"name":"Blacksmith","order":30,"parentId":28,"scrollX":1139,"scrollY":661}
 ]
