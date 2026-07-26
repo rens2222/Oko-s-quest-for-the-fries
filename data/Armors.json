@@ -19,5 +19,5 @@ null,
 {"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":20,"atypeId":7,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":87,"name":"Comfy Oko Hoodie","note":"","params":[200,0,0,60,0,60,30,0],"price":0}
+{"id":20,"atypeId":7,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":87,"name":"Comfy Oko Hoodie","note":"","params":[200,50,0,60,0,60,30,0],"price":0}
 ]
