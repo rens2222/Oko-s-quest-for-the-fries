@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"Potato Town","order":2,"parentId":5,"scrollX":2709,"scrollY":1707},
 {"id":7,"expanded":false,"name":"Edis house","order":8,"parentId":6,"scrollX":1139,"scrollY":661},
 {"id":8,"expanded":false,"name":"Castle","order":35,"parentId":31,"scrollX":811,"scrollY":795},
-{"id":9,"expanded":false,"name":"Umis Shop","order":7,"parentId":6,"scrollX":819,"scrollY":461},
+{"id":9,"expanded":false,"name":"Umis Shop","order":7,"parentId":6,"scrollX":1139,"scrollY":661},
 {"id":10,"expanded":true,"name":"LibRyvian","order":11,"parentId":5,"scrollX":811,"scrollY":499},
 {"id":11,"expanded":false,"name":"Route Potato Town","order":14,"parentId":5,"scrollX":1139,"scrollY":507},
 {"id":12,"expanded":false,"name":"Playground","order":16,"parentId":5,"scrollX":1131,"scrollY":661},
@@ -34,5 +34,5 @@ null,
 {"id":32,"expanded":false,"name":"Apples shop","order":9,"parentId":6,"scrollX":819,"scrollY":461},
 {"id":33,"expanded":false,"name":"Inside Gas Station","order":26,"parentId":25,"scrollX":819,"scrollY":461},
 {"id":34,"expanded":false,"name":"Blacksmith","order":30,"parentId":28,"scrollX":811,"scrollY":499},
-{"id":35,"expanded":false,"name":"Fias Shop","order":32,"parentId":26,"scrollX":819,"scrollY":461}
+{"id":35,"expanded":false,"name":"Fias Shop","order":32,"parentId":26,"scrollX":1139,"scrollY":661}
 ]
