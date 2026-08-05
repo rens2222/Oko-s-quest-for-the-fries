@@ -15,9 +15,9 @@ null,
 {"id":13,"expanded":true,"name":"Route Playground","order":10,"parentId":5,"scrollX":1139,"scrollY":507},
 {"id":14,"expanded":true,"name":"Ground Floor","order":12,"parentId":10,"scrollX":1139,"scrollY":661},
 {"id":15,"expanded":false,"name":"First Floor","order":13,"parentId":14,"scrollX":1139,"scrollY":661},
-{"id":16,"expanded":true,"name":"Tschang Bridge","order":15,"parentId":5,"scrollX":2709,"scrollY":2227},
+{"id":16,"expanded":true,"name":"Tschang Bridge","order":15,"parentId":5,"scrollX":2693,"scrollY":2211},
 {"id":17,"expanded":false,"name":"Tschang Dense Forrest","order":17,"parentId":5,"scrollX":3008,"scrollY":640},
-{"id":18,"expanded":false,"name":"Tschang Summit","order":18,"parentId":5,"scrollX":1131,"scrollY":2219},
+{"id":18,"expanded":false,"name":"Tschang Summit","order":18,"parentId":5,"scrollX":1131,"scrollY":661},
 {"id":19,"expanded":false,"name":"Dragomirs Gate","order":19,"parentId":5,"scrollX":1131,"scrollY":787},
 {"id":20,"expanded":false,"name":"Route Dragomirs Gate","order":20,"parentId":5,"scrollX":1131,"scrollY":1739},
 {"id":21,"expanded":true,"name":"Route Tunnel","order":21,"parentId":5,"scrollX":832,"scrollY":640},
@@ -35,5 +35,5 @@ null,
 {"id":33,"expanded":false,"name":"Inside Gas Station","order":26,"parentId":25,"scrollX":1139,"scrollY":661},
 {"id":34,"expanded":false,"name":"Blacksmith","order":31,"parentId":28,"scrollX":811,"scrollY":499},
 {"id":35,"expanded":false,"name":"Fias Shop","order":33,"parentId":26,"scrollX":1139,"scrollY":661},
-{"id":36,"expanded":false,"name":"Sebastians house","order":29,"parentId":27,"scrollX":819,"scrollY":461}
+{"id":36,"expanded":false,"name":"Sebastians house","order":29,"parentId":27,"scrollX":1139,"scrollY":661}
 ]
