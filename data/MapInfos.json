@@ -31,7 +31,7 @@ null,
 {"id":29,"expanded":false,"name":"big city Windmill Quarter","order":31,"parentId":26,"scrollX":1269,"scrollY":653},
 {"id":30,"expanded":false,"name":"Route castle","order":33,"parentId":5,"scrollX":811,"scrollY":979},
 {"id":31,"expanded":true,"name":"Fry Castle","order":34,"parentId":5,"scrollX":1107,"scrollY":747},
-{"id":32,"expanded":false,"name":"Apples shop","order":9,"parentId":6,"scrollX":819,"scrollY":461},
+{"id":32,"expanded":false,"name":"Apples shop","order":9,"parentId":6,"scrollX":1139,"scrollY":661},
 {"id":33,"expanded":false,"name":"Inside Gas Station","order":26,"parentId":25,"scrollX":1139,"scrollY":661},
 {"id":34,"expanded":false,"name":"Blacksmith","order":30,"parentId":28,"scrollX":811,"scrollY":499},
 {"id":35,"expanded":false,"name":"Fias Shop","order":32,"parentId":26,"scrollX":1139,"scrollY":661}
