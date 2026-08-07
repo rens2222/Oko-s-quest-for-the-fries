@@ -13,11 +13,5 @@ null,
 {"id":11,"list":[{"code":231,"indent":0,"parameters":[1,"hint3",1,0,640,360,100,100,255,0]},{"code":230,"indent":0,"parameters":[10]},{"code":112,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[11,"ok"]},{"code":230,"indent":2,"parameters":[5]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":230,"indent":1,"parameters":[5]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"hint 3","switchId":1,"trigger":0},
 {"id":12,"list":[{"code":231,"indent":0,"parameters":[1,"hint4",1,0,640,360,100,100,255,0]},{"code":230,"indent":0,"parameters":[10]},{"code":112,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[11,"ok"]},{"code":230,"indent":2,"parameters":[5]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":230,"indent":1,"parameters":[5]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":235,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"hint 4","switchId":1,"trigger":0},
 {"id":13,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":15,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":16,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":17,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":18,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":19,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":20,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":14,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
 ]
